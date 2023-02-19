@@ -27,3 +27,4 @@ echo "alias diff='git diff'" >> ~/.oh-my-zsh/plugins/git/git.plugin.zsh
 echo "alias v='git remote -v'" >> ~/.oh-my-zsh/plugins/git/git.plugin.zsh
 echo "alias log='git log'" >> ~/.oh-my-zsh/plugins/git/git.plugin.zsh
 echo "alias amend='git commit --amend'" >> ~/.oh-my-zsh/plugins/git/git.plugin.zsh
+echo "alias reset='git reset --hard head'" >> ~/.oh-my-zsh/plugins/git/git.plugin.zsh
