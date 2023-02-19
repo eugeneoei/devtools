@@ -26,4 +26,4 @@ echo "alias pop='git stash pop'" >> ~/.oh-my-zsh/plugins/git/git.plugin.zsh
 echo "alias diff='git diff'" >> ~/.oh-my-zsh/plugins/git/git.plugin.zsh
 echo "alias v='git remote -v'" >> ~/.oh-my-zsh/plugins/git/git.plugin.zsh
 echo "alias log='git log'" >> ~/.oh-my-zsh/plugins/git/git.plugin.zsh
-echo "amend='git commit --amend'" >> ~/.oh-my-zsh/plugins/git/git.plugin.zsh
+echo "alias amend='git commit --amend'" >> ~/.oh-my-zsh/plugins/git/git.plugin.zsh
